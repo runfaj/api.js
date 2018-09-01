@@ -1,0 +1,28 @@
+{
+  "name": "api.js",
+  "version": "1.0.0",
+  "description": "A universal javascript helper framework to construct and organize api methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runfaj/api.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "api",
+    "framework",
+    "helper",
+    "construct",
+    "organize",
+    "universal"
+  ],
+  "author": "Stuart Roskelley",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/runfaj/api.js/issues"
+  },
+  "homepage": "https://github.com/runfaj/api.js#readme"
+}
